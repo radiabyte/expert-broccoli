@@ -1,0 +1,14 @@
+#pro coder comments
+#so this is comments
+print("spent 5 years in university")
+print("still struggled for this code")
+print("Hello cruel World..Why I did not code at white hat jr..")
+worlds_smallest_problem=1
+MINE_AND_SAMS_PP=-99999999999
+print("Worlds smallest problem>My and Sams pp...answer:")
+b=MINE_AND_SAMS_PP<worlds_smallest_problem
+print(b)
+print("read the code @_hole")
+print("()")
+print("  ====>")
+print("()")
